@@ -1,11 +1,8 @@
 Oposiciones de Inglés
 =====================
 
-Cuerpo de profesores de escuelas oficiales de idiomas
------------------------------------------------------
-
-Problemas del práctico por comunidades
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Supuestos prácticos por comunidades
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table:: Contenidos actualizados el 8 de febrero 2020.
     :widths: 5 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10
@@ -156,13 +153,13 @@ Problemas del práctico por comunidades
 
       - `Madrid <https://github.com/jacubero/mates/blob/master/EOI/2021/madrid21.pdf>`_
 
-      - `Murcia <https://github.com/jacubero/mates/blob/master/EOI/2021/murcia21.pdf>`_
+      - Murcia
 
       - Navarra
 
       - País Vasco
 
-      - La Rioja
+      - `La Rioja <https://github.com/jacubero/mates/blob/master/EOI/2021/rioja21.pdf>`_
 
       - Comunidad Valenciana
 
@@ -268,7 +265,7 @@ Problemas del práctico por comunidades
 
       - Galicia
 
-      - Madrid
+      - `Madrid <https://github.com/jacubero/mates/blob/master/EOI/2018/madrid18.pdf>`_
 
       - `Murcia <https://github.com/jacubero/mates/blob/master/EOI/2018/murcia18.pdf>`_
 

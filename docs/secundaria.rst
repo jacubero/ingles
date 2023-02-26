@@ -151,11 +151,11 @@ Supuestos prácticos por comunidades
 
       - Galicia
 
-      - `Madrid <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/madrid21.pdf>`_
+      - `Madrid <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/madrid21.pdf>`_, `Aplazado <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/madrid21-a.pdf>`_, `Audio <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/madrid21-audio.mp3>`_
 
       - `Murcia <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/murcia21.pdf>`_
 
-      - Navarra
+      - `Navarra <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/navarra21.pdf>`_, `Covid <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/navarra21-covid.pdf>`_
 
       - `País Vasco <https://github.com/jacubero/ingles/blob/master/Oposiciones/2021/pvasco21.pdf>`_
 
@@ -250,7 +250,7 @@ Supuestos prácticos por comunidades
 
       - `Baleares <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/baleares18.pdf>`_
 
-      - Canarias
+      - `Canarias <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/canarias18.pdf>`_
 
       - `Cantabria <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/cantabria18.pdf>`_
 
@@ -260,7 +260,7 @@ Supuestos prácticos por comunidades
 
       - `Castilla León <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/cleon18.pdf>`_
 
-      - `Castilla la Mancha <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/cmancha18.pdf>`_, `Castilla la Mancha 1 <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/cmancha18-1.pdf>`_
+      - `Castilla la Mancha <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/cmancha18.pdf>`_
 
       - Extremadura
 
@@ -270,7 +270,7 @@ Supuestos prácticos por comunidades
 
       - Murcia
 
-      - Navarra
+      - `Navarra <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/navarra18.pdf>`_
 
       - `País Vasco <https://github.com/jacubero/ingles/blob/master/Secundaria/2018/pvasco18.pdf>`_
 
