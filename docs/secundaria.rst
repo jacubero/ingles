@@ -133,7 +133,7 @@ Supuestos prácticos por comunidades
 
       - Asturias
 
-      - Ibiza y Formentera
+      - `Ibiza Option A <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ibiza21A.pdf>`_ , `Ibiza Option B <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ibiza21B.pdf>`_, `Mallorca Option A <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/mallorca21A.pdf>`_ , `Mallorca Option B <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/mallorca21B.pdf>`_, `Menorca Option A <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/menorca21A.pdf>`_, `Menorca Option B <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/menorca21B.pdf>`_ 
 
       - `Canarias <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/canarias21.pdf>`_
 
@@ -141,9 +141,9 @@ Supuestos prácticos por comunidades
 
       - Cataluña
 
-      - Ceuta
+      - `Ceuta Use of English <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ceuta21.docx>`_, `Ceuta Text <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ceuta21p.docx>`_, `Melilla <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/melilla21.pdf>`_
 
-      - CLeon
+      - `Castilla León <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/cleon21.pdf>`_
 
       - Castilla la Mancha
 
@@ -163,44 +163,6 @@ Supuestos prácticos por comunidades
       - La Rioja
 
       - `Comunidad Valenciana <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/valencia21.pdf>`_
-
-    * - 2020
-
-      - Andalucía
-
-      - Aragón
-
-      - Asturias
-
-      - `Ibiza Option A <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/ibiza20A.pdf>`_ , `Ibiza Option B <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/ibiza20B.pdf>`_, `Mallorca Option A <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/mallorca20A.pdf>`_ , `Mallorca Option B <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/mallorca20B.pdf>`_, `Menorca Option A <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/menorca20A.pdf>`_, `Menorca Option B <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/menorca20B.pdf>`_ 
-
-      - Canarias
-
-      - Cantabria
-
-      - Cataluña
-
-      - Ceuta
-
-      - `Castilla León <https://github.com/jacubero/ingles/blob/master/Secundaria/2020/cleon20.pdf>`_
-
-      - Castilla la Mancha
-
-      - Extremadura
-
-      - Galicia
-
-      - Madrid
-
-      - Murcia
-
-      - Navarra
-
-      - País Vasco
-
-      - La Rioja
-
-      - Comunidad Valenciana
 
     * - 2019
 

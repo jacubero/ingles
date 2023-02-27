@@ -133,7 +133,7 @@ Supuestos prácticos por comunidades
 
       - Asturias
 
-      - Baleares 
+      - `Baleares Option A <https://github.com/jacubero/mates/blob/master/EOI/2020/baleares21A.pdf>`_, `Baleares Option B <https://github.com/jacubero/mates/blob/master/EOI/2020/baleares21B.pdf>`_ 
 
       - `Canarias <https://github.com/jacubero/mates/blob/master/EOI/2021/canarias21.pdf>`_
 
@@ -141,7 +141,7 @@ Supuestos prácticos por comunidades
 
       - Cataluña
 
-      - Ceuta
+      - `Ceuta Use of English <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ceuta21.docx>`_, `Ceuta Text 1 <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ceuta21-text1.docx>`_, `Ceuta Text 2 <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/ceuta21-text2.docx>`_, `Melilla <https://github.com/jacubero/ingles/blob/master/Secundaria/2021/melilla21.pdf>`_
 
       - CLeon
 
@@ -160,44 +160,6 @@ Supuestos prácticos por comunidades
       - País Vasco
 
       - `La Rioja <https://github.com/jacubero/mates/blob/master/EOI/2021/rioja21.pdf>`_
-
-      - Comunidad Valenciana
-
-    * - 2020
-
-      - Andalucía
-
-      - Aragón
-
-      - Asturias
-
-      - `Baleares Option A <https://github.com/jacubero/mates/blob/master/EOI/2020/baleares20A.pdf>`_, `Baleares Option B <https://github.com/jacubero/mates/blob/master/EOI/2020/baleares20B.pdf>`_ 
-
-      - Canarias
-
-      - Cantabria
-
-      - Cataluña
-
-      - Ceuta
-
-      - CLeon
-
-      - Castilla la Mancha
-
-      - Extremadura
-
-      - Galicia
-
-      - Madrid
-
-      - Murcia
-
-      - Navarra
-
-      - País Vasco
-
-      - La Rioja
 
       - Comunidad Valenciana
 
